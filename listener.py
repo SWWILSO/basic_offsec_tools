@@ -63,6 +63,3 @@ class Listener:
                 result = "[-] Error generated during execution\n"
             
             print(result)
-
-my_listener = Listener("10.0.2.16", 4444)
-my_listener.run()
