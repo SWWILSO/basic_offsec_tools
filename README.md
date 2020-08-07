@@ -1,3 +1,3 @@
-# basic_offsec_tools
+# simpleReverseBackdoor
 
 Command line tools in Python.
